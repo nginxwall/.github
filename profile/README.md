@@ -5,7 +5,7 @@
 
 ### **NginxWall**
 
-**Self-Hosted Manager Dashboard for Nginx.**
+**Self-Hosted Management Dashboard for Nginx.**
 
 ##
 
